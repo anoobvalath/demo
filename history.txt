@@ -1,0 +1,498 @@
+    1  code
+    2  code
+    3  git status
+    4  git add readme.md
+    5  mate readme.md
+    6  git add .
+    7  git --edit
+    8  edit
+    9  cls
+   10  clear
+   11  pwd
+   12  ls -la
+   13  git init demo
+   14  ls -ls
+   15  cd demo
+   16  ls -ls
+   17  ls -la
+   18  code readme.md
+   19  ls
+   20  ls -la
+   21  git add .
+   22  git status
+   23  demo $git commit -m  "First file in demo repo"
+   24  git commit -m  "First file in demo repo"
+   25  mk dir
+   26  mkdir projects
+   27  cd prokjects
+   28  cd projects
+   29  git init demo
+   30  cd demo
+   31  ls -la
+   32  touch file1
+   33  git add file1
+   34  git status
+   35  ls -al
+   36  git commit -m "Fist commit"
+   37  git status
+   38  ls -la
+   39  rm -rf .git
+   40  git status
+   41  rm -rf .git/
+   42  git status
+   43  ls -la
+   44  git status
+   45  git add File
+   46  git commit
+   47  cdcls
+   48  ls -la
+   49  pwd
+   50  ls
+   51  cd projects
+   52  ls
+   53  ls -al
+   54  pwd
+   55  ls -al
+   56  git status
+   57  mate licence.md
+   58  cd..
+   59  md project1
+   60  mddir projects1
+   61  mkdir projects1
+   62  cd projects1
+   63   mate licence.md
+   64  pwd
+   65  git staus
+   66  git log
+   67  cle
+   68  clear
+   69  pwd
+   70  ls -al
+   71  git log 
+   72  pwd
+   73  echo "New File : > file1
+   74  cat file1
+   75  echo "Newfile file2" > file2
+   76  s -ls
+   77  ls -la
+   78  ls -la
+   79  pwd
+   80  echo "New File File.x" > File.x
+   81  echo "Ne file File.y" > File.y
+   82  git status
+   83  git init
+   84  git init
+   85  git status
+   86  git status
+   87  ls
+   88  mate readme.md
+   89  git ls-files
+   90  pwd
+   91  mate readme.md
+   92  git reset HEAD readme.md
+   93  git reset hard
+   94  clear
+   95  ls -al
+   96  echo "Demo project Readme " > readme
+   97  git add .
+   98  git commit -m "First Commit"
+   99  echo "Demo project Readme " >> readme
+  100  git status
+  101  git add .
+  102  git status
+  103  git restore --stage readme
+  104  git status
+  105  cat readme
+  106  get reset head readme
+  107  get reset HEAD readme
+  108  GIT CEHCKOUT --README
+  109  git checkout -- readme
+  110  mate readme
+  111  fit log
+  112  git log
+  113  git help log
+  114  git log --oneline --graph
+  115  git log --oneline --graph --decorate --all
+  116  git config --global alias.hist "log --online --graph --decorate --all"
+  117  git config --global --list
+  118  git hist
+  119  git hist --licence
+  120  git hist
+  121  git config --global alias.hist "log --oneline --graph --decorate --all"
+  122  git hist
+  123  git hist --licence
+  124  history
+  125  history >history.txt
+  126  cdcd projects
+  127  ls 
+  128  ls -al
+  129  git status
+  130  mate readme.md
+  131  mate README.MD
+  132  mate README.md
+  133  vi README.md
+  134  notepad README.md
+  135  notepad++ README.md
+  136  cd .git/
+  137  ls -al
+  138  pwd
+  139  prompt
+  140  git his
+  141  git hist
+  142  cler
+  143  clear
+  144  git status
+  145  ls -al
+  146  vscode
+  147  notepad++
+  148  notepad++
+  149  git status
+  150  git status
+  151  cd..
+  152  git status
+  153  git status
+  154  cat readme.md
+  155  git add .
+  156  git add .
+  157  git reset HEAD readme.md
+  158  git restore --staged readme.md
+  159  git restore --staged readme.md
+  160  git checkout --readme.md
+  161  git checkout -- readme.md
+  162  cat readme.md
+  163  git checkout -- readme.md
+  164  ls -la
+  165  cat readme.md
+  166  git status 
+  167  git checkout -- readme.md
+  168  git status 
+  169  git checkout -- readme.md
+  170  ls -al
+  171  git hist 
+  172  ls -la
+  173  git status
+  174  git add .
+  175  git commit -m "Second Commit"
+  176  git status
+  177  git staus
+  178  git status
+  179  cat readme.md
+  180  git checkout -- readme.md
+  181  cat readme.md
+  182  git status
+  183  pwd
+  184  git log
+  185  git help log
+  186  git log --oneline --graph --decorate --all
+  187  clear
+  188  git config --global alias.hist "log --oneline --graph -- decorate --all"
+  189  git config --global --list
+  190  git hist
+  191  git hist -- licence.md
+  192  git config --global alias.hist "log --oneline --graph -- decorate --all"
+  193  git hist
+  194  mkdir hello-world
+  195  cd hello-word
+  196  cd hello-world
+  197  git clone 
+  198  git clone https://github.com/leachim6/hello-world.git
+  199  git clone https://github.com/leachim6/hello-world.git
+  200  git clone https://github.com/leachim6/hello-world.git
+  201  ls -al
+  202  cd hello-world
+  203  cd hello-world
+  204  cd..
+  205  ls -ls
+  206  cd..
+  207  cd
+  208  ls -al
+  209  cd demo
+  210  gh repo clone leachim6/hello-world
+  211  git repo clone leachim6/hello-world
+  212  git clone leachim6/hello-world
+  213  clear
+  214  git clone https://github.com/leachim6/hello-world.git
+  215  ls -al
+  216  cd hello-world
+  217  ls -al
+  218  git status
+  219  git log 
+  220  cd hello-world
+  221  git status
+  222  git log
+  223  git hist
+  224  git config --global --list 
+  225  git hist
+  226  git config alias.hist=log --oneline --graph -- decorate --all
+  227  alias.hist=log --oneline --graph -- decorate --all
+  228  git config alias.hist=log --oneline --graph -- decorate --all
+  229  git config
+  230  git config --global alias.hist=log --oneline --graph --decorate --all
+  231  git hist
+  232  git config
+  233  git config --global --list 
+  234  git config --global alias.hist=log --oneline --graph --decorate --all
+  235  git config --global alias.hist "log --oneline --graph --decorate --all"
+  236  git config --global --list 
+  237  git hist
+  238  clear
+  239  git add.
+  240  git add .
+  241  ls -al
+  242  cd hello-world
+  243  git add .
+  244  ls -al
+  245  ren example.txt demo.txt
+  246  rename example.txt demo.txt
+  247  ls -al
+  248  git mv demo.txt example.txt
+  249  git mv hello.txt demo.txt
+  250  mv hello.txt demo.txt
+  251  ls -al
+  252  git add .
+  253  git status
+  254  git add -u
+  255  ls -l
+  256  notepad++ .gitignore
+  257  notepad++.exe .gitignore
+  258  ls -al
+  259  ls -al
+  260  notepad
+  261  ls -al
+  262  git hist -m 10
+  263  git history
+  264  history
+  265  clear
+  266  git hist
+  267  +git hist
+  268  git hist
+  269  ls -al
+  270  cd hellow-world
+  271  cd hello-world
+  272  cls
+  273  clear
+  274  git config --global --list
+  275   git  config -global difftool.prompt
+  276  Git config --global core.editor='/C\Program Files\Microsoft VS Code\code.exe' -w
+  277  Git config --global -e
+  278  Git config --global -e
+  279  git config --global --list
+  280  code
+  281  clear
+  282  p4merge
+  283  la -la
+  284  ls -la
+  285  cat demo.txt
+  286  cat demo.txt
+  287  echo "add one line to demofile" >> demo.txt
+  288  git diff
+  289  git diff demo.txt
+  290  echo "File demo updte line 2 " >> demo.txt
+  291  git diff
+  292  git status
+  293  git difftool
+  294  pwd
+  295  gi status
+  296  git init .
+  297  git status
+  298  git checkout -b updates
+  299  echoo "You are adding linbe >> readme.md
+  300  git merge very-bad
+  301  git mergetool
+  302  echo "New line " >> readme.md
+  303  cat readme.me
+  304  head
+  305  git checkout master
+  306  git branch -d updates
+  307  git branch -b very-bad
+  308  git checkout -b very-bad
+  309  git branch -a
+  310  echo "very bad update" >> readme.md
+  311  cat readme.md
+  312  git checkout master
+  313  echo "Fourthline" >>readme.md
+  314  cat readme.md
+  315  git branch -a
+  316  git commit -m "commit branch"
+  317  git merge very-bad
+  318  cat readme.md
+  319  git add .
+  320  git commit -m " invalid merge"
+  321  git merge very-bad
+  322  git checkout very-bad
+  323  git checkout very-bad
+  324  git checkout very-bad
+  325  git checkout -b very-bad
+  326  ls -al
+  327  git checkout very-bad
+  328  git branch -d very-bad
+  329  git checkout -b very-bad
+  330  cat readme.md
+  331  echo "verybad testline" >>
+  332  cat readme.md
+  333  git checkout master
+  334  cat readme.md
+  335  git status
+  336  git status
+  337  git checkout very-bad
+  338  echo "New very-bad line" >> readme.md
+  339  cat readme.md
+  340  git status
+  341  git commit -am "very bad commit"
+  342  git status
+  343  git checkout master
+  344  echo "master lst update" >> readme.md
+  345  cat readme.md
+  346  git status
+  347  git commit -am "Master last commit"
+  348  git status
+  349  git merge very-bad
+  350  cat readme.md
+  351  git mergetool
+  352  git mergetool
+  353  git commit -m "resolving conflict"
+  354  git status
+  355  code .gitignore
+  356  git status
+  357  git commit -am "updating ignore to exclude merge files"
+  358  ls
+  359  rm readme.md.orig
+  360  ls
+  361  git tag mytag
+  362  git tag --list
+  363  git tag -d mytag
+  364  git tag -a v1.0 -m "Relaease 1.0"
+  365  git tag --list
+  366  git show v.1.0
+  367  git show v1.0
+  368  git status
+  369  echo "lat line " >>readme.md
+  370  cat readme.md
+  371  git status
+  372  git stash
+  373  git stash list
+  374  git status
+  375  cat readme.md
+  376  ls
+  377  code
+  378  git commit -am "Updating licence file"
+  379  git status
+  380  git stash pop
+  381  git stash list
+  382  code readme.md
+  383  code readme.md
+  384  git add .
+  385  git status
+  386  code readme.md
+  387  git status
+  388  git hist
+  389  git hist 10
+  390  git reflog
+  391  git help hist
+  392  git git log 5
+  393  git git log -5
+  394  git hist -5
+  395  git hist -10
+  396  git hist -20
+  397  git hist -15
+  398  git status
+  399  git hist -15
+  400  git reset 6ca96f0  --soft
+  401  git hist -15
+  402  git status
+  403  git reset 6ca96f0 --mixed
+  404  git hist -15
+  405  git status
+  406  git hist -15
+  407  git reset 84ce7c5  --hard
+  408  git status
+  409  git hist -15
+  410  git log --oneline
+  411  git reflog
+  412  git reset --hard 6ca96f0 
+  413  git log --online
+  414  git log --oneline
+  415  git hist -15
+  416  exit
+  417  git init .
+  418  git status
+  419  git commit -m "Test"
+  420  git add .
+  421  git commit -m "Test Git"
+  422  echo "test line" >> hello.txt
+  423  git status
+  424  git add .
+  425  git status
+  426  git commit -m "test Commit"
+  427  git updates -u
+  428  pwd
+  429  git remote -v
+  430  git remote add orgin https://github.com/anoobvalath/demo.git
+  431  git remote -v
+  432  git push -u origin master --tags
+  433  ls -la
+  434  git remote add orgin https://github.com/anoobvalath/demo.git
+  435  git push -u origin master --tags
+  436  rm hello.txt
+  437  ls -al
+  438  git add .
+  439  git commit -m "test"
+  440  ls -al
+  441  git push -u origin master --tags
+  442  git remote -v
+  443  git config 
+  444  git config --global
+  445  git ALL=(ALL) ALL.
+  446  git ALL.
+  447  git ALL .
+  448  git bash
+  449  $ git remote add origin https://github.com/anoobvalath/demo.git
+  450  ls -al
+  451  pwd
+  452  git status
+  453  git push -u origin master --tags
+  454  git push -u origin master --tags
+  455  git push -u origin master --tags
+  456  git push -u origin master --tags
+  457  git push -u origin master --tags
+  458  git push -u origin master --tags
+  459  git remote -v
+  460  git remote add orgian https://github.com/anoobvalath/devopsdemo.git
+  461  git remote -v
+  462  pwd
+  463  git push -u origin master --tags
+  464  git push -u origin master --tags
+  465  mkdir demo
+  466  cd demo
+  467  cd..
+  468  cd
+  469  git init .
+  470  ls -al
+  471  pwd
+  472  git push -u origin master --tags
+  473  git add .
+  474  git push -u origin master --tags
+  475  ls -al
+  476  git push -u origin master --tags
+  477  git init .
+  478  ls -al
+  479  git push -u origin master --tags
+  480  git remote -v
+  481  git push origin master
+  482  git push origin master 
+  483  mkdir demo
+  484  cd demo
+  485  git remote -v
+  486  git remote -v
+  487  git remote -v
+  488  git remote add origin https://github.com/anoobvalath/demo.git
+  489  git remote -v
+  490  git remote add origin https://github.com/anoobvalath/demo.git
+  491  git remote -v
+  492  git push -u origin master --tags
+  493  git history
+  494  history
+  495  pwd
+  496  mkdir .ssh
+  497  cd .ssh
+  498  history >history.txt
